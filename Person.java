@@ -8,7 +8,4 @@ public class  Person {
 	public void setName(String n) {
 		name =  new String(n) ;
 	}
-
-	//add attribute  age
-	int age  ;
 }
